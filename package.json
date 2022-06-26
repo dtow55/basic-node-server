@@ -1,0 +1,23 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtow55/basic-node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtow55/basic-node-server/issues"
+  },
+  "homepage": "https://github.com/dtow55/basic-node-server#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
